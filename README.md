@@ -9,7 +9,7 @@
         <dependency>
             <groupId>cn.home1</groupId>
             <artifactId>oss-lib-hystrix</artifactId>
-            // 替换成现有版本 <version>1.0.7.OSS</version>
+            // 替换成现有版本 <version>1.0.8.OSS-SNAPSHOT</version>
         </dependency>
 
 + 创建配置文件
